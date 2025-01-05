@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/freetools/static/css/main.ca67ef22.css",
+    "main.js": "/freetools/static/js/main.2d77aa06.js",
+    "static/js/239.dfdb0d71.chunk.js": "/freetools/static/js/239.dfdb0d71.chunk.js",
+    "static/js/213.042bb37f.chunk.js": "/freetools/static/js/213.042bb37f.chunk.js",
+    "static/js/455.7ce08913.chunk.js": "/freetools/static/js/455.7ce08913.chunk.js",
+    "static/media/pdftoimage1.webp": "/freetools/static/media/pdftoimage1.6e14acdccb565ecff2bb.webp",
+    "static/media/pdftoppt.webp": "/freetools/static/media/pdftoppt.347401c4f42ad8cbfdd9.webp",
+    "static/media/pdfeditor.webp": "/freetools/static/media/pdfeditor.064a11d83d88512d2b98.webp",
+    "static/media/pdftoimage.webp": "/freetools/static/media/pdftoimage.9d8b85a6fa01e430d0ba.webp",
+    "static/media/poster1.png": "/freetools/static/media/poster1.514714f64faf58f6aa9d.png",
+    "static/media/freetools.jpg": "/freetools/static/media/freetools.1c4f15902ece5c006fc3.jpg",
+    "static/media/poster2.png": "/freetools/static/media/poster2.991447522b38fd2ea34d.png",
+    "index.html": "/freetools/index.html",
+    "main.ca67ef22.css.map": "/freetools/static/css/main.ca67ef22.css.map",
+    "main.2d77aa06.js.map": "/freetools/static/js/main.2d77aa06.js.map",
+    "239.dfdb0d71.chunk.js.map": "/freetools/static/js/239.dfdb0d71.chunk.js.map",
+    "213.042bb37f.chunk.js.map": "/freetools/static/js/213.042bb37f.chunk.js.map",
+    "455.7ce08913.chunk.js.map": "/freetools/static/js/455.7ce08913.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca67ef22.css",
+    "static/js/main.2d77aa06.js"
+  ]
+}
